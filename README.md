@@ -1,5 +1,5 @@
 # BERTSentimentTW
-Using BERT to classify sentiments of Tweets form Twitter
+Using BERT to classify sentiments of Tweets from Twitter
 
 Simple notebook using the BERTSequenceClassifier provided by hugging face, following a coursera tutorial.
 
